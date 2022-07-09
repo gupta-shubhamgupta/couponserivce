@@ -14,7 +14,6 @@ public class CouponController {
 
 	@Autowired
 	private CouponRepo repo;
-	//good
 //	@GetMapping("/")
 //	public String index() {
 //		return "index";
